@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+}
+
+.successPage{
+  background-color:#189FD2;
+}
+.display-4{
+  font-size: 5.5rem;
+  font-weight: bold;
+  color: #18D236;
+}
+.lead{
+  font-size: 2rem;
+}
